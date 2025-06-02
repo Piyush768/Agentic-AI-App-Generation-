@@ -90,6 +90,5 @@ FAISS
 Streamlit
 
 📜 License
-MIT License © 2025 Piyush Anil Patil
-"""
+MIT License © 2025 Piyush Patil
 
